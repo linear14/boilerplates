@@ -27,11 +27,22 @@
 
 ## Boilerplate
 
-- Login Module
+### Common
+
+- (Planning) Login Module
   - OAuth2.0
   - JWT
   - Authorized Pages
-- Frontend Custom Layout
+- (Planning) S3 File Upload
+- (Planning) Payment Module
+
+### Frontend
+
+- (Planning) Layout
+- (Planning) Modal System
+  - Considering Mobile Routes
+
+### Backend
 
 ## Logs
 
