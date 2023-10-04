@@ -11,4 +11,8 @@
 - 아직 많이 사용해보지는 않았지만 page.tsx, layout.tsx 혹은 loading.tsx, error.tsx 등의 파일들이 각각의 역할이 존재하기 때문에 Suspense, ErrorBoundary 처리를 어느정도 신경을 덜 써도 됨
 - Server Component / Client Component에 대한 구분과 아키텍처 설계가 조금 어렵긴 하지만 충분히 고민해보면 좋은 경험이 될 것 같음
 
+### tailwind css 공부?
+
+- util로 설정되어있지 않고, custom theme으로도 정의해놓지 않은 경우 >> w-[npx] 이런식으로 사용 가능
+
 ## Backend
