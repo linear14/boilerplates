@@ -39,8 +39,7 @@ const Form = () => {
           });
         }}
         type="submit"
-        backgroundColorTailwind="bg-green-500"
-        textColorTailwind="text-white"
+        backgroundColorTailwind="bg-red-400"
       />
     </form>
   );
