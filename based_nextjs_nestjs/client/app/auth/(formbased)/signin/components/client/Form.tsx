@@ -10,7 +10,7 @@ const Form = () => {
   const passwordRef = useRef<HTMLInputElement>(null);
 
   return (
-    <form className="w-[420px] border rounded-lg border-neutral-300 box-border flex flex-col p-4 gap-8">
+    <form className="w-full flex flex-col gap-8 box-border">
       <div className="flex flex-col gap-4">
         <div className="flex flex-col gap-2">
           <Label text="이메일" />
